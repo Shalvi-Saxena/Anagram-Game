@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shalvi/.android/build-cache/3320bcddd2fe3d28463f6e2cc65dec2350eb838a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_993e28a8aa8944900463d51b28196e0e74086850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shalvi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_cfc3aaaccc0460c5d9db176f4b95e7a76cd9ed7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shalvi/.android/build-cache/3320bcddd2fe3d28463f6e2cc65dec2350eb838a/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_022d5b35f5bc29e3d1983a96c1949efef5f0191e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shalvi/.android/build-cache/a2c38d97b82d968462f7102bd134a81279ceb795/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78767c6f33f7681ddc6282896065fc3879a3cd6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff89896fc9940dd7d317bc969b5a1b3a2fd20dc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81af22da5f14a06b4f590e5fde0234fedf622272">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_77ff9bdce93ce60b3e158118b44bb4877e9004b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shalvi/.android/build-cache/5feaef176d0feb3351bf5f015306956efa23024b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/media/shalvi/Study/Android(CSWA)/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0cf1dac1898e889a39104727de2f57fd9c3b900/classes.dex" />
+    </item>
+
+</items>
