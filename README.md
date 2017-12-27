@@ -2,7 +2,7 @@ CS-With-Android Project Anagrams
 ============================
 
 
-####**This repository contains code for module Anagram Game of Google's Computer Science with Android.**###
+**This repository contains code for module Anagram Game of Google's Computer Science with Android.**
 [*Anagram CSwithAndroid*](https://cswithandroid.withgoogle.com/unit?unit=1&lesson=3)
 
 
